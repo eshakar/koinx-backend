@@ -1,0 +1,87 @@
+[
+  {
+    "_id": "7l5637r9x",
+    "runId": "RUN-1779723698524",
+    "timestamp": "2026-05-25T15:41:38.578Z",
+    "config": {
+      "timestampToleranceSeconds": 300,
+      "quantityTolerancePct": 0.01
+    },
+    "summary": {
+      "matched": 22,
+      "conflicting": 0,
+      "unmatchedUser": 0,
+      "unmatchedExchange": 3,
+      "dataQualityIssues": 4
+    },
+    "createdAt": "2026-05-25T15:41:38.579Z"
+  },
+  {
+    "_id": "0vohddmgx",
+    "runId": "RUN-1779723730043",
+    "timestamp": "2026-05-25T15:42:10.101Z",
+    "config": {
+      "timestampToleranceSeconds": 300,
+      "quantityTolerancePct": 0.01
+    },
+    "summary": {
+      "matched": 21,
+      "conflicting": 1,
+      "unmatchedUser": 0,
+      "unmatchedExchange": 3,
+      "dataQualityIssues": 4
+    },
+    "createdAt": "2026-05-25T15:42:10.102Z"
+  },
+  {
+    "_id": "ds2x3hslp",
+    "runId": "RUN-1779724157455",
+    "timestamp": "2026-05-25T15:49:17.582Z",
+    "config": {
+      "timestampToleranceSeconds": 300,
+      "quantityTolerancePct": 0.01
+    },
+    "summary": {
+      "matched": 21,
+      "conflicting": 1,
+      "unmatchedUser": 0,
+      "unmatchedExchange": 3,
+      "dataQualityIssues": 4
+    },
+    "createdAt": "2026-05-25T15:49:17.583Z"
+  },
+  {
+    "_id": "e1ge9wihj",
+    "runId": "RUN-1779724384031",
+    "timestamp": "2026-05-25T15:53:04.108Z",
+    "config": {
+      "timestampToleranceSeconds": 288,
+      "quantityTolerancePct": 0.01
+    },
+    "summary": {
+      "matched": 21,
+      "conflicting": 1,
+      "unmatchedUser": 0,
+      "unmatchedExchange": 3,
+      "dataQualityIssues": 4
+    },
+    "createdAt": "2026-05-25T15:53:04.109Z"
+  },
+  {
+    "_id": "i0qz6owzq",
+    "runId": "RUN-1779728310977",
+    "timestamp": "2026-05-25T16:58:31.062Z",
+    "config": {
+      "timestampToleranceSeconds": 300,
+      "quantityTolerancePct": 0.01
+    },
+    "summary": {
+      "matched": 21,
+      "conflicting": 1,
+      "unmatchedUser": 0,
+      "unmatchedExchange": 3,
+      "dataQualityIssues": 4
+    },
+    "createdAt": "2026-05-25T16:58:31.064Z"
+  }
+]
